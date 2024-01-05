@@ -1,0 +1,4 @@
+##Project Website
+1. Cek Library
+2. Cek Template dan static
+3. Cek run website
